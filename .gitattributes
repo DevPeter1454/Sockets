@@ -1,4 +1,4 @@
+windows/** linguist-documentation
 *.cmake linguist-detectable=false
-*.cpp linguist-detectable=false
-*.c++ linguist-detectable=false
-*.c linguist-detectable=false
+*.cmake.in linguist-detectable=false
+
