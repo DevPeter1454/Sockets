@@ -1,4 +1,7 @@
 windows/** linguist-documentation
+macos/** linguist-documentation
+linux/** linguist-documentation
+android/** linguist-documentation
 *.cmake linguist-detectable=false
 *.cmake.in linguist-detectable=false
 *.cpp linguist-detectable=false
